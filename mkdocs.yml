@@ -1,0 +1,6 @@
+site_name: Deep Learning Basics
+nav:
+  - Home: index.md
+  - Loss Functions: loss_functions.md
+theme:
+  name: material
